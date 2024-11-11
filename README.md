@@ -1,2 +1,2 @@
 # Portfolio
-Live Preview - https://github.com/siddhant7666/Portfolio
+Live Preview - https://siddhant7666.github.io/Portfolio/
